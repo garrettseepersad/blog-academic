@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Garrett Seepersad
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Navigation Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: u-blox
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: In pursuit of knowledge to enable high precision positioning at a significantly lower cost.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- GNSS positioning
+- Arduino + u-blox F9
+- R
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Earth and Space Science
+    institution: York University
+    year: 2018
+  - course: MEng in Earth and Space Science
+    institution: MSc in Earth and Space Science
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Geomatics Engineering
+    institution: University of West Indies
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:Garrett@Seepersad.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/gseepersad
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.nl/citations?user=N44NW_gAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/garrettseepersad
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Metre-level Global Navigation Satellite Systems (GNSS) positioning surrounds us all on a daily basis but for decades high accuracy centimetre-level positioning has been inaccessible to the mass market due to the relatively high hardware cost. My current focus is in the pursuit of knowledge to enable high precision positioning at a significantly lower cost.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My PhD research centered about the use of GNSSs for a multitude of precise positioning and navigation applications. Specific areas of application includes GNSS surveying and UAV navigation. My research required development of positioning algorithms, which include filters, functional, stochastic and predictive models to mitigate physical effects.
