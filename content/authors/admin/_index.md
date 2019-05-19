@@ -49,6 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gseepersad
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gseepersad/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?user=N44NW_gAAAAJ&hl=en
