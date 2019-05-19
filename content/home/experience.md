@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Feature implementation
   * Testing and verification for product release
-  * Feasiability studies
+  * Feasibility studies
   """
 
 [[experience]]
