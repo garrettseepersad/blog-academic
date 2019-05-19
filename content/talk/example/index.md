@@ -3,7 +3,7 @@ title: Assessing the Performance of GNSS Receivers with Legacy and Mass Market S
 event: ION GNSS+ 2019
 event_url: https://www.ion.org/
 location: Miami, Florida
-summary: In a rapidly evolving GNSS market, where access to high precision positioning and timing is becoming accessible for mass market applications, the underlying challenge for GNSS users is in the determination of an appropriate correction service for their specific application. Selection of an appropriate GNSS receiver and correction service can become challenging when considering a variety of factors such as network compatibility, correction quality, correction availability, multi-constellation support, latency, bandwidth, power, initialization time, integrity, performance as well as the different business models and distribution channels. GNSS users would prefer a receiver with the capability to facilitate seamless and reliable network integration while satisfying their application’s requirements. 
+summary: In a rapidly evolving GNSS market, where access to high precision positioning and timing is becoming accessible for mass market applications, the underlying challenge for GNSS users is in the determination of an appropriate correction service for their specific application.
 abstract: "In a rapidly evolving GNSS market, where access to high precision positioning and timing is becoming accessible for mass market applications, the underlying challenge for GNSS users is in the determination of an appropriate correction service for their specific application. Selection of an appropriate GNSS receiver and correction service can become challenging when considering a variety of factors such as network compatibility, correction quality, correction availability, multi-constellation support, latency, bandwidth, power, initialization time, integrity, performance as well as the different business models and distribution channels. GNSS users would prefer a receiver with the capability to facilitate seamless and reliable network integration while satisfying their application’s requirements. 
 GNSS correction services message formats generally fall into two categories, based either on the Observation State Representation (OSR) or a State Space Representation (SSR) of the errors. These two representations are used to mitigate key GNSS errors (e.g. satellite orbits, clocks and biases as well as ionospheric and tropospheric delays) in order to enable high precision GNSS performance. Observation Space Representation correction services are supplied by the legacy GNSS correction services providers. The term observation is used because the format is used, for example, to transport pseudorange and carrier phase measurements as recorded by a physical receiver. OSR corrections are also utilised for Network Real Time Kinematic (NRTK) services, where the range measurements are localised for the rover receiver using measurements from receivers in a local network. The downsides for mass-market applications is that dedicated correction generation and high-bandwidth two way communications are necessary for every receiver operating in the network. 
 It is standard for global correction providers to utilize State Space Representation for data transmission format which is now being utilized by some Network RTK providers as well. SSR decomposes the errors into meaningful states by utilizing a network of reference stations to decorrelate the different GNSS error components. Generally, SSR corrections are preferred in contrast to OSR primarily because it is more bandwidth efficient and requires only one-way communication. One-way communication is a pre-requisite for satellite distribution as well as scalability with a focus towards mass market adoption to serve large fleets continentally and globally. By decomposing the range terms into state dependent terms, the correction data can be compressed. For example, the state terms can be transmitted at variable rates such as satellite orbits which are transmitted every 30 seconds and satellite clocks transmitted every 10 seconds. Correction services examined will include a localized base station with varying baseline lengths as well as a commercial Network RTK (NRTK) and global correction providers.
@@ -12,28 +12,28 @@ Varying factors from the different correction service providers serves as the mo
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-09-16T13:00:00Z"
-date_end: "2019-09-20T15:00:00Z"
+date: "2019-09-16T09:00:00Z"
+date_end: "2019-09-20T10:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-09-16T13:00:00Z"
 
-authors: [Garrett Seepersad, Alex Parkins, Cecile Mongredien, Chris Hide, Marten Strom, Peter Fairhurst, Daniel Ammann]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://www.u-blox.com/sites/default/files/styles/product_full/public/products/ZED-F9P.png?itok=bFYZ_PCh)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/gseepersad
 url_code: ""
 url_pdf: ""
 url_slides: ""
