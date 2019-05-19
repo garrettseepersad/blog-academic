@@ -22,7 +22,8 @@ bio: In pursuit of knowledge to enable high precision positioning at a significa
 
 interests:
 - GNSS positioning
-- Arduino + u-blox F9
+- u-blox F9
+- arduino
 - R
 
 education:
@@ -61,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "garrett@seepersad.org"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
