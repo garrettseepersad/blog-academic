@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = ""
+title = "Experiences"
+subtitle = "In the world of GNSS"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Navigation Software Design Engineer"
   company = "u-blox"
-  company_url = ""
+  company_url = "https://www.u-blox.com/"
   location = "Zürich"
   date_start = "2018-11-01"
   date_end = ""
@@ -35,19 +35,26 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Geodetic"
   company = "Natural Resource Canada"
-  company_url = ""
+  company_url = "https://www.nrcan.gc.ca/home"
   location = "Ottawa"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Examine techniques to combine multiple orbit and clock information while preserving the integer nature of the carrier phase ambiguity terms."""
+  description = """Development of a utility that combined multiple satellite products which improved the reliability of ambiguity resolution with a single GNSS receiver.
+  Responsibilities include:
+  
+  * Review of the different PPP products available
+  * Develop a utility to combine multiple satellite products focused  on real time applications
+  * Test and validate generated products
+  
+  """
 
 [[experience]]
   title = "GNSS Specialist"
   company = "Sheqtrak"
   company_url = "www.protanks.eu"
   location = "Zürich"
-  date_start = "2018-11-01"
-  date_end = ""
+  date_start = "2015-11-01"
+  date_end = "2016-11-01"
   description = """
 Worked with SheqTrack, to develop a GNSS-based safety system for maintenance workers in their secure area at the Rotterdan World Gateway (RWG)
 
@@ -96,7 +103,7 @@ Research focused on:
 [[experience]]
   title = "GNSS Researcher"
   company = "Ontario Ministry of Transportation"
-  company_url = ""
+  company_url = "https://www.ontario.ca"
   location = "Ontario"
   date_start = "2012-09-01"
   date_end = "2014-09-01"
@@ -110,4 +117,23 @@ Research focused on:
   * Test and validate transformations
   * Analyze solution performance using transformed PPP-AR products
   """
+  
+  [[experience]]
+  title = "​GNSS Research Assistant"
+  company = "York University"
+  company_url = "https://www.yorku.ca/"
+  location = "Ontario"
+  date_start = "2010-09-01"
+  date_end = "2018-09-01"
+  description = """
+​Worked on a variety of projects while at York University. 
+
+Notable projects include:
+
+  * Development of York University's multi-GNSS PPP-AR engine,
+  * Analysis of network RTK providers within Ontario,
+  * Proposed a certification process for network RTK providers within Ontario
+  * Validated Gemini Navsoft Inc.'s deformation software
+  """
+  
 +++
