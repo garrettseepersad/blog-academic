@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experiences"
-subtitle = "In the world of GNSS"
+subtitle = "in the world of GNSS"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Current responsibilities include:
   
   * Feature implementation
   * Testing and verification for product release
