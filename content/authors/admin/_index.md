@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: PhD in Earth and Space Science
-    institution: York University
+    institution: York University, Canada
     year: 2018
   - course: MEng in Earth and Space Science
-    institution: MSc in Earth and Space Science
+    institution: York University, Canada
     year: 2012
   - course: BSc in Geomatics Engineering
-    institution: University of West Indies
+    institution: University of West Indies, Trinidad and Tobago
     year: 2009
 
 # Social/Academic Networking
