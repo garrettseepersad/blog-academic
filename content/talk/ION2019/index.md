@@ -22,7 +22,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-09-20T15:00:00Z"
 
-authors: [Garrett Seepersad, Alex Parkins, Cecile Mongredien, Chris Hide, Marten Strom, Peter Fairhurst, Daniel Ammann]
+authors: [Garrett Seepersad]
 tags: []
 
 # Is this a featured talk? (true/false)
