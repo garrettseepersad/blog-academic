@@ -25,6 +25,7 @@ interests:
 - u-blox F9
 - arduino
 - R
+- python
 
 education:
   courses:
