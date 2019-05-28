@@ -1,20 +1,19 @@
 ---
-title: Assessing the Performance of GNSS Receivers with Legacy and Mass Market State Space Correction Services
-event: ION GNSS+ 2019
-event_url: https://www.ion.org/gnss/abstracts.cfm?paperID=7790
-location: Miami, Florida
-summary: "Selection of an appropriate GNSS receiver and correction service can become challenging when considering a variety of factors such as network compatibility, correction quality, correction availability, multi-constellation support, latency, bandwidth, power, initialization time, integrity, performance as well as the different business models and distribution channels."
-
-abstract: "asd"
+title: Example Talk 2
+event: Academic Theme Conference
+event_url: https://example.org
+location: London, United Kingdom
+summary: An example talk using Academic's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-09-16T13:00:00Z"
-date_end: "2019-09-20T15:00:00Z"
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-09-20T15:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -52,7 +51,7 @@ projects:
 - internal-project
 
 # Enable math on this page?
-math: false
+math: true
 ---
 
 {{% alert note %}}
