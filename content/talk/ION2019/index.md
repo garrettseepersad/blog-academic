@@ -53,7 +53,7 @@ projects:
 - internal-project
 
 # Enable math on this page?
-math: true
+math: false
 ---
 
 {{% alert note %}}
