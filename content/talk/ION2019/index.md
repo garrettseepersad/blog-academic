@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**u-blox**](https://www.u-blox.com/en/press-releases/u-blox-announces-u-blox-f9-robust-and-versatile-high-precision-positioning-technology)'
   focal_point: Right
 
 links:
