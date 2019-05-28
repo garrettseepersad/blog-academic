@@ -58,7 +58,7 @@ url_video: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- ublox
 
 # Enable math on this page?
 math: false
