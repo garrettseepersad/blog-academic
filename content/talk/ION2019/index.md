@@ -35,11 +35,6 @@ image:
   caption: 'Image credit: [**u-blox**](https://www.u-blox.com/en/press-releases/u-blox-announces-u-blox-f9-robust-and-versatile-high-precision-positioning-technology)'
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/gseepersad
 url_code: ""
 url_pdf: ""
 url_slides: ""
