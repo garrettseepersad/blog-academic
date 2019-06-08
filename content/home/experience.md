@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "u-blox"
   company_url = "https://www.u-blox.com/"
   location = "Zürich"
-  date_start = "2018-11-01"
+  date_start = "2017-11-01"
   date_end = ""
   description = """
   Current responsibilities include:
