@@ -8,10 +8,10 @@ draft: false
 menu:
   phd_thesis:
     parent: Chapter 1
-    weight: 2
+    weight: 16
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 10
 --- 
 
 The research presented has been fuelled by the advancements made in ambiguity resolution by Laurichesse and Mercier (2007); Collins (2008); and Ge et al. (2008). To allow PPP GNSS measurement processing to be adopted into mass market applications that involves safety of life for e.g., the operation of autonomous vehicles, there is now increased requirement on the reliability, robustness and integrity of the user solution. To enable research within the realm of PPP ambiguity resolution it was required to expand of pre-existing PPP infrastructure to facilitate ambiguity resolution. Presented, is an overview of the implementation process to enable ambiguity resolution utilizing PPP-AR products. Receiver dependent equipment delays were mitigated by performing implicit single (satellite-to-satellite) differencing. Implicit differencing was selected to permit estimation of the receiver code clock, phase clock and relative carrier-phase L1-L2 measurement equipment delay. Satellite equipment delays were mitigated by utilizing products from different public providers to examine performance and interoperability.

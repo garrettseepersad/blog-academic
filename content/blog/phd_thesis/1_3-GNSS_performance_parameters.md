@@ -8,10 +8,10 @@ draft: false
 menu:
   phd_thesis:
     parent: Chapter 1
-    weight: 2
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 13
 --- 
 
 The performance of any navigation system is characterized by several factors. Some of the primary factors consists of accuracy, precision, availability, continuity, reliability and integrity (IMO 2001; Grimes 2007; Porretta et al. 2016). The priority given to these different factors are application specific. For applications such as, geodetic control surveying, accuracy is the core requirement (Donahue et al. 2013). Whereas, for safety of life applications, such as automotive, aeronautical and marine navigation integrity and reliability is given the highest priority (RTCA DO-181 1983; IMO 2001; European GNSS Agency 2015). Presented is a review of some of the definitions which have been utilized within the research presented.

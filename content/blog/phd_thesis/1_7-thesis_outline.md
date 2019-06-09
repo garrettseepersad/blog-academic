@@ -8,10 +8,10 @@ draft: false
 menu:
   phd_thesis:
     parent: Chapter 1
-    weight: 2
+    weight: 17
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 10
 --- 
 
 Chapter 2 provides an overview of the evolution of the PPP user model over the past two decades, how to process the measure as well as steps needed to expand the mathematical model to facilitate ambiguity resolution in PPP utilizing an uncombined representation. The standard practice in conventional PPP has been to linearly combine two pseudoranges and two carrier-phases to produce ionosphere-free linear pseudoranges and carrier-phase combinations which eliminates the first order ionosphere delay. Originally, the ionosphere delay was considered a nuisance parameter within the positioning community. As a result, the ionosphere-free linear combination was favoured in contrast to the estimation of the slant ionosphere delay. Nowadays, the PPP model permits multi-frequency, multi-constellation, slant ionosphere estimation and ambiguity resolution. Presented in each section is a review of the steps the PPP user model underwent within its evolution.

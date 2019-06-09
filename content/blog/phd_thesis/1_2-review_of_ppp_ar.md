@@ -8,10 +8,10 @@ draft: false
 menu:
   phd_thesis:
     parent: Chapter 1
-    weight: 2
+    weight: 12
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 12
 --- 
 
 
