@@ -1,14 +1,14 @@
 ---
-title: "Cadastral Surveyors in rural areas. Do you need ambiguity resolution in multi-GNSS PPP for accuracy or integrity?"
+title: "Assessing PPP ambiguity resolution within Ontario"
 authors:
 - admin
 - Sunil Bisnath 
 
-date: "2018-02-01T00:00:00Z"
+date: "2017-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-02-01T00:00:00Z"
+publishDate: "2017-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication_types: ["9"]
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: "Over the past two decades, the PPP user model has been constantly evolving. Each iteration, adding improvements in terms of accuracy and most notably convergence. Research objectives focused on examining the different performance indicators of PPP and PPP-AR and determining if Cadastral Surveyors in rural areas need AR for accuracy or for integrity."
+abstract: "Precise Point Positioning (PPP) data processing technique has been developed over the past 15 years to become a standard method for a growing number of positioning and navigation applications. Research objectives consisted of examination of the challenges of ambiguity resolution (AR) in PPP. Quantify data collection periods necessary to meet implemented integrated cadastral surveys in Ontario and geodetic surveys accuracy specifications from National Standard for Spatial Data Accuracy, Virgina."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,15 +29,14 @@ tags:
 - PPP-AR
 - PPP
 - Ambiguity resolution
-- Integrity monitoring
-- Single Frequency
-- Multi-GNSS
+- Cadastral surveying
+
 featured: true
 
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: publications/Seepersad_et_al_AOLS_AGM_2018.pdf
+url_pdf: publications/Seepersad_et_al_ AOLS_2017.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

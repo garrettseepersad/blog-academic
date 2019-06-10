@@ -1,14 +1,16 @@
 ---
-title: "Cadastral Surveyors in rural areas. Do you need ambiguity resolution in multi-GNSS PPP for accuracy or integrity?"
+title: "Evaluation of Network RTK in Southern Ontario"
 authors:
-- admin
-- Sunil Bisnath 
+- Amir Saeidi
+- Sunil Bisnath
+- Jian-Guo Wang
+- Garrett Seepersad
 
-date: "2018-02-01T00:00:00Z"
+date: "2011-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-02-01T00:00:00Z"
+publishDate: "2011-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,24 +22,23 @@ publication_types: ["9"]
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: "Over the past two decades, the PPP user model has been constantly evolving. Each iteration, adding improvements in terms of accuracy and most notably convergence. Research objectives focused on examining the different performance indicators of PPP and PPP-AR and determining if Cadastral Surveyors in rural areas need AR for accuracy or for integrity."
+abstract: "In Ontario, network RTK services were established and are operated by private companies with little governmental regulation. MTO requested that York, in part, evaluate the performance of network RTK in Southern Ontario. A small subset of results from various companies and analysis is presented here."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- PPP-AR
 - PPP
-- Ambiguity resolution
-- Integrity monitoring
-- Single Frequency
-- Multi-GNSS
+- Position uncertainty
+- Cadastral surveying
+- Network RTK
+
 featured: true
 
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: publications/Seepersad_et_al_AOLS_AGM_2018.pdf
+url_pdf: publications/Seepersad_et_al_2014.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

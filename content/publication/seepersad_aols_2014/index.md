@@ -1,14 +1,14 @@
 ---
-title: "Cadastral Surveyors in rural areas. Do you need ambiguity resolution in multi-GNSS PPP for accuracy or integrity?"
+title: "Assessing PPP uncertainty in Ontario: How realistic are PPP uncertainties?"
 authors:
 - admin
 - Sunil Bisnath 
 
-date: "2018-02-01T00:00:00Z"
+date: "2014-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-02-01T00:00:00Z"
+publishDate: "2014-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,24 +20,22 @@ publication_types: ["9"]
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: "Over the past two decades, the PPP user model has been constantly evolving. Each iteration, adding improvements in terms of accuracy and most notably convergence. Research objectives focused on examining the different performance indicators of PPP and PPP-AR and determining if Cadastral Surveyors in rural areas need AR for accuracy or for integrity."
+abstract: "Software-determined position uncertainty is main indicator of solution accuracy in PPP, as a reference solution may not available. Research presents novel analysis of PPP uncertainty realism in southern Ontario, and quantifies data collection periods necessary to meet integrated survey specifications. Data collected from 55 reference stations over three months in 2011. “Truth” position solutions computed from data by NRCan Bernese relative GPS data processing. PPP solutions computed using York-PPP software developed at York, based on NRCan on-line software."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- PPP-AR
 - PPP
-- Ambiguity resolution
-- Integrity monitoring
-- Single Frequency
-- Multi-GNSS
+- Position uncertainty
+- Cadastral surveying
+
 featured: true
 
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: publications/Seepersad_et_al_AOLS_AGM_2018.pdf
+url_pdf: publications/Seepersad_et_al_2014.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,14 +1,16 @@
 ---
-title: "Performance analysis of atmospheric constrained uncombined multi-GNSS PPP"
+title: "Integer satellite clock combination for Precise Point Positioning with ambiguity resolution"
 authors:
-- John Aggrey
 - admin
+- Simon Banville
+- Paul Collins
 - Sunil Bisnath
-date: "2017-09-01T00:00:00Z"
+- François Lahaye
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-09-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +22,8 @@ publication_types: ["1"]
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: "The general objective of this study is to analyze the performance of Precise Point Positioning (PPP) convergence and initialization while stochastically constraining the atmosphere. One specific objective of this study is to review the performance of dual- and triple-frequency PPP solutions using uncombined measurements. The research question to be answered is whether there is any significant benefit in constraining the atmosphere, specifically the ionospheric parameter, in dual- and triple-frequency PPP processing? For thorough performance analysis in the uncombined PPP case, data from 70 globally distributed multi-GNSS stations were processed for the month of February, 2016. The uncombined triple-frequency PPP results with GIM ionospheric constraints showed reduced convergence time compared to unconstrained solutions. At the 68th percentile, a 60% and 78% reduction in convergence was observed for dual- and triple-frequency PPP with ionospheric constraints, respectively. However, more than 50% improvement was observed for constrained triple-frequency uncombined GNSS PPP solution convergence and initialization in the first 5 minutes as compared to dual-frequency PPP solutions. It was concluded that by applying atmospheric constraints in an uncombined multi-GNSS approach, significant improvements were observed for both dual- and triple-frequency PPP implementations."
+abstract: "While satellite clock combinations are routinely utilized within the IGS, they currently disregard the fact that some ACs provide integer clocks. Users have been expected to choose either a robust combined solution or select individual AC solutions that provide integer clocks allowing the user to compute a PPP-AR solution. The goal of our investigation was to develop and test a robust satellite clock combination preserving the integer nature of the clocks and therefore the carrier-phase ambiguities at the user end. Two sets of combined clock products were generated: 1) combined integer satellite clock products, and 2) IGS clocks aligned to integer clocks. The combined products were evaluated in the position domain by processing GPS data from 29 IGS stations, observed during DOY 178 to 184 of 2016. mm-level differences were noted, which was expected as the strength lies mainly in its reliability and stable median performance and the combined product is better than or equivalent to any single AC’s product in the combination process. IGS clock products aligned to an AC integer clocks yielded the best PPP-AR results, for both static and kinematic solutions.
+"
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,14 +32,15 @@ tags:
 - PPP-AR
 - PPP
 - Ambiguity resolution
-- Atmospheric constraints
-- Triple frequency
+- IGS products
+- Clock combination
+
 featured: true
 
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: publications/Aggrey-J-et-al-2017_ION_final.pdf
+url_pdf: publications/Seepersad_G_et_al_2016.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
