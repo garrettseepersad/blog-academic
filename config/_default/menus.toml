@@ -3,21 +3,28 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 #
+# To add feature posts, need to change back to "#" ... look at example conetent or compare to projects
 [[main]]
   name = "About"
   url = "#about"
   weight = 10
-#
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+
+[[main]]
+  name = "Posts"
+  url = "posts/"
+  weight = 20
 #
 #[[main]]
 #  name = "Projects"
 #  url = "#projects"
 #  weight = 30
 #
+
+[[main]]
+  name = "Utilities"
+  url = "publication/"
+  weight = 40
+
 [[main]]
   name = "Publications"
   url = "publication/"
@@ -25,7 +32,7 @@
 
 [[main]]
   name = "Blog"
-  url = "blog/"
+  url = "blog/apps/"
   weight = 50
 
 [[main]]
