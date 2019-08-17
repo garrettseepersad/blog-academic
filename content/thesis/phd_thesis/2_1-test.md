@@ -21,6 +21,6 @@ Single point positioning (SPP), also referred to as absolute positioning or poin
 $$E = mc^2 \label{eq3}\tag{3}$$
  
 
-$$E = a_{12} + m_{12}c^2 \label{eq4}\tag{4}$$ 
+$$E = a\_{12} + m\_{12}c^2$$
 
 blah blah blah, reference equation  ([3](#mjx-eqn-eq3))
