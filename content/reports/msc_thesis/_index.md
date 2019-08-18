@@ -1,15 +1,15 @@
 ---
 # Course title, summary, and position.
 linktitle: Reduction Of Initial Convergence Period In GPS PPP Data Processing
-summary: "PhD Thesis : Currently being converted from a word document to markdown format
+summary: "MSc Thesis : Currently being converted from a word document to markdown format
 "
-weight: 1
+weight: 2
 
 # Page metadata.
 title: Abstract
 date: "2012-09-09T00:00:00Z"
 lastmod: "2012-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
