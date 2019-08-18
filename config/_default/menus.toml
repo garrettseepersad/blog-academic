@@ -20,6 +20,13 @@
 #  weight = 30
 #
 
+
+[[main]]
+  name = "Reports"
+  url = "reports/"
+  weight = 30
+
+
 [[main]]
   name = "Utilities"
   url = "utilities/r/"

@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Improving Reliability And Assessing Performance Of Global Navigation Satellite System Precise Point Positioning Ambiguity Resolution
-summary: "PhD thesis
+summary: "PhD Thesis : Currently being converted from a word document to markdown format
 "
 weight: 1
 
