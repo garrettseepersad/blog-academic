@@ -13,6 +13,7 @@
   name = "Posts"
   url = "posts/"
   weight = 20
+
 #
 #[[main]]
 #  name = "Projects"
@@ -36,6 +37,38 @@
   name = "Publications"
   url = "publication/"
   weight = 50
+  identifier = "publication"
+
+[[main]]
+  name = "Conference Papers"
+  url = "publication/#1"
+  parent = "publication"
+  
+[[main]]
+  name = "Web Articles"
+  url = "publication/#10"
+  parent = "publication"
+  
+[[main]]
+  name = "Journal Article"
+  url = "publication/#2"
+  parent = "publication"
+  
+[[main]]
+  name = "Report"
+  url = "publication/#4"
+  parent = "publication"
+
+[[main]]
+  name = "Thesis"
+  url = "publication/#7"
+  parent = "publication"
+  
+[[main]]
+  name = "Poster"
+  url = "publication/#9"
+  parent = "publication"
+
 
 #[[main]]
 #  name = "Blog"
