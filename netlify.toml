@@ -8,3 +8,8 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+
+# Redirect blog to posts
+[[redirects]]
+  from = "/blog/"
+  to = "/posts/"
