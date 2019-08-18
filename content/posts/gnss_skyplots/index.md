@@ -67,3 +67,5 @@ set(gca, 'LooseInset', [0,0,0,0.01]);          %Depending on the figure, you may
 print( '-dtiff',  ['skyPlot'], '-r600');       %Change "-r600" to the required DPI
 
 ```
+
+To run the script above, the script polarhg is required, which can be downloaded [here](./polarhg.m).
